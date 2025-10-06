@@ -1,7 +1,3 @@
-以下是依照你提供的風格，為 **Autogen 圖片檢索 Demo** 撰寫的正式版 `README.md`：
-
----
-
 # Autogen x Image Retrieval Demo
 
 本專案示範如何使用 **Microsoft Autogen** 建立一個多代理（multi-agent）系統，
